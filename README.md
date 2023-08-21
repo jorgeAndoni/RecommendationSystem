@@ -12,3 +12,4 @@ aa
 
 <img src="sr_resultados2.png" width="400" height="300">
 
+[aaaaaa](https://www.kaggle.com/competitions/scc5966-2018-2o)
