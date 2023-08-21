@@ -2,7 +2,7 @@
 lala
 
 ## Datasets
-aa
+In this work, a movie review database was used. The database consists of 3,974 users and 3,564 movies. In total, the database has 539,754 reviews, where ratings are given on a 5-star scale.
 
 ## Methodology
 aa
