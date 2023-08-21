@@ -6,6 +6,15 @@ lala
 ## Datasets
 In this work, a movie review database was used. The database consists of 3,974 users and 3,564 movies. In total, the database has 539,754 reviews, where ratings are given on a 5-star scale.
 
+All ratings are contained in the file "train_data.csv in the following format: UserID,MovieID,Rating,Timestamp
+- UserIDs range between 1 and 3974
+- MovieIDs range between 1 and 3564
+- Ratings are made on a 5-star scale (whole-star ratings only)
+- Timestamp is represented in seconds since the epoch as returned by time(2)
+- Each user has at least 20 ratings
+
+
+
 ## Methodology
 In this work, I have implemented several recommendation algorithms. These algorithms are as follows:
 1. Item-based collaborative filtering
