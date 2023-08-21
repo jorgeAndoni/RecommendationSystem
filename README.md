@@ -1,7 +1,6 @@
 # Recommendation System
-lala
 
-[Link Kaggle](https://www.kaggle.com/competitions/scc5966-2018-2o)
+In this study, I implemented various movie recommendation systems using different recommendation algorithms. The dataset was obtained through a [Kaggle competition](https://www.kaggle.com/competitions/scc5966-2018-2o).
 
 ## Datasets
 In this work, a movie review database was used. The database consists of 3,974 users and 3,564 movies. In total, the database has 539,754 reviews, where ratings are given on a 5-star scale.
