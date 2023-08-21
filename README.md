@@ -8,5 +8,7 @@ aa
 aa
 
 ## Main results
-aa
+<img src="sr_resultados.png" width="400" height="300">
+
+<img src="sr_resultados2.png" width="400" height="300">
 
